@@ -1,4 +1,4 @@
-package ai.nexo.produtosapi.model.config;
+package ai.nexo.produtosapi.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
